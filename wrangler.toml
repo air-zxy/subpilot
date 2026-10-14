@@ -1,0 +1,6 @@
+name = "subpilot"
+compatibility_date = "2026-10-14"
+
+# 指定静态资源目录 —— 这就是报错时缺的那块
+[assets]
+directory = "apps/web/dist"
